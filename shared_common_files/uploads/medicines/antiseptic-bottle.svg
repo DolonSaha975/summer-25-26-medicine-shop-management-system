@@ -1,0 +1,10 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="#eff6ff"/>
+  <rect x="100" y="36" width="40" height="18" rx="3" fill="#1d4ed8"/>
+  <path d="M104 54 h32 v22 l14 18 v92 a12 12 0 0 1-12 12 h-36 a12 12 0 0 1-12-12 v-92 l14-18 z"
+        fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <path d="M88 132 h64 v54 a12 12 0 0 1-12 12 H100 a12 12 0 0 1-12-12 z" fill="#3b82f6"/>
+  <rect x="84" y="150" width="72" height="34" rx="3" fill="#ffffff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="120" y="170" font-family="Arial, sans-serif" font-size="12" font-weight="700"
+        text-anchor="middle" fill="#1d4ed8">ANTISEPTIC</text>
+</svg>
